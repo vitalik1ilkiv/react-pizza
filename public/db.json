@@ -1,0 +1,104 @@
+{
+    "pizzas": [
+      {
+        "id": 0,
+        "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/27c9bbd0af3a4d1d84a086d9c2f1656d_1875x1875.jpeg",
+        "name": "Пеппероні Фреш з перцем",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [450, 550, 803],
+        "category": 0,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://img.postershop.me/11481/Products/3109013_1656661726.2024_original.jpg",
+        "name": "Сирна",
+        "types": [0],
+        "sizes": [26, 40],
+        "prices": [210, 320],
+        "category": 1,
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://ninjafood.su/upload/iblock/3c4/mwpwwn8l4ad12tql23rinhh7fu1g2jej.png",
+        "name": "Ципленок барбекю",
+        "types": [0],
+        "sizes": [26, 40],
+        "prices": [190, 400],
+        "category": 1,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://tiktak-delivery.ru/img/dish/yN1bJssPpauw8Exu.jpg?mark=%2Fhome%2Ftiktak%2Fhtdocs%2Fpublic%2Fassets%2Findex%2Fimages%2Fwater-mark-2.png&s=8c01a24cf237f0fdb34b331d2bb255ac",
+        "name": "Кисло-солодкий ципленок",
+        "types": [1],
+        "sizes": [26, 30, 40],
+        "prices": [275, 320, 380],
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://mistercat.com.ua/app/uploads/2022/08/image-25-1.webp",
+        "name": "Чізбургер-піца",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [450, 550, 803],
+        "category": 3,
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://roll-club.kh.ua/wp-content/uploads/2022/12/5-900x600.jpg",
+        "name": "Крейзі пепероні",
+        "types": [0],
+        "sizes": [30, 40],
+        "prices": [540, 550],
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://lviv.veteranopizza.com/image/cache/catalog/pizza/peperoni-800x800.jpg",
+        "name": "Пепероні",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [674, 740, 799],
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://grigliata.com.ua/wp-content/uploads/2023/04/Margarita.jpg",
+        "name": "Маргарита",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [574, 640, 799],
+        "category": 4,
+        "rating": 10
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://www.moi-sushi.com.ua/wp-content/uploads/2022/08/piczcza-4-sezona.jpg",
+        "name": "Чотири сезони",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [174, 340, 599],
+        "category": 5,
+        "rating": 10
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://i.obozrevatel.com/food/recipemain/2019/2/18/aspi.jpg?size=636x424",
+        "name": "Овочі та гриби 🌱",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "prices": [274, 540, 599],
+        "category": 5,
+        "rating": 7
+      }
+    ]
+  }

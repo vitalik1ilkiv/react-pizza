@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="icon-cart" viewBox="0 0 18 18">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"
+              d="M6.333 16.333a1.333 1.333 0 1 0 0-2.666 1.333 1.333 0 0 0 0 2.666ZM14.333 16.333a1.333 1.333 0 1 0 0-2.666 1.333 1.333 0 0 0 0 2.666ZM4.78 5h11.553l-1.12 5.593a1.334 1.334 0 0 1-1.333 1.074H6.833a1.334 1.334 0 0 1-1.333-1.16l-1.013-7.68a1.333 1.333 0 0 0-1.32-1.16h-1.5"/>
+    </symbol>
+    <symbol id="icon-plus" viewBox="0 0 12 12">
+        <path fill="currentColor" d="M10.8 4.8H7.2V1.2a1.2 1.2 0 0 0-2.4 0v3.6H1.2a1.2 1.2 0 0 0 0 2.4h3.6v3.6a1.2 1.2 0 0 0 2.4 0V7.2h3.6a1.2 1.2 0 0 0 0-2.4Z"/>
+    </symbol>
+    <symbol id="icon-minus" viewBox="0 0 10 2">
+        <path fill="currentColor" d="M4.04.04h4.8a.96.96 0 0 1 0 1.92H1.16a.96.96 0 0 1 0-1.92h2.88Z"/>
+    </symbol>
+    
+</svg>
